@@ -1,0 +1,15 @@
+path: D:/BaiduNetdiskDownload/交通标志与行人车辆检测系统8/datasets/dataset
+train: train/images
+val: val/images
+
+nc: 9
+names:
+  0: 'Traffic Light Signal'
+  1: 'Stop Signal'
+  2: 'Speedlimit Signal'
+  3: 'Crosswalk Signal'
+  4: 'Crosswalk'
+  5: 'Pedestrian'
+  6: 'Bus'
+  7: 'Car'
+  8: 'Truck'

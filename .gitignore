@@ -1,0 +1,21 @@
+# python缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# 模型权重（不要上传pt大文件！）
+*.pt
+*.pth
+# vscode配置
+.vscode/
+.idea/
+# 虚拟环境
+.venv/
+venv/
+env/
+# 日志、输出图片视频
+runs/
+output/
+# 系统文件
+.DS_Store
+Thumbs.db

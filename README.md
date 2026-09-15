@@ -139,11 +139,3 @@ python MainProgram.py
 - 完成图片、视频、摄像头等多数据源功能测试
 - 完成测试材料及项目文档归档
 
-## 项目截图
-
-```markdown
-![检测界面](assets/image1.png)
-![检测结果](assets/image2.png)
-![检测结果](assets/image3.png)
-![视频检测](assets/video1.png)
-```
